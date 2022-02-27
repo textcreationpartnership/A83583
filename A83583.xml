@@ -1,0 +1,281 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The votes agreed on by the Lords and Commons concerning a treatie and their desire of a safe-conduct for a committee named by them in the Earl of Manchesters letter of the 28. of Febr. to the Lord of Falkland; with His Majesties gracious answer thereunto: and His Majesties safe-conduct. Also the articles of both Houses of Parliament concerning a cessation, with a letter of the 28. of February from the said Earl of Manchester to the said Lord Viscount of Falkland, wherein they were inclosed; together with His Majesties gracious answer to the same.</title>
+            <title>Proceedings. 1643</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A83583</idno>
+            <idno type="STC">Wing E2437</idno>
+            <idno type="STC">Thomason E92_12</idno>
+            <idno type="STC">ESTC R6038</idno>
+            <idno type="EEBO-CITATION">99897718</idno>
+            <idno type="PROQUEST">99897718</idno>
+            <idno type="VID">132657</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A83583)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 132657)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 243:E92, no 12; 2514:24c)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The votes agreed on by the Lords and Commons concerning a treatie and their desire of a safe-conduct for a committee named by them in the Earl of Manchesters letter of the 28. of Febr. to the Lord of Falkland; with His Majesties gracious answer thereunto: and His Majesties safe-conduct. Also the articles of both Houses of Parliament concerning a cessation, with a letter of the 28. of February from the said Earl of Manchester to the said Lord Viscount of Falkland, wherein they were inclosed; together with His Majesties gracious answer to the same.</title>
+                  <title>Proceedings. 1643</title>
+                  <author>England and Wales. Parliament.</author>
+                  <author>Manchester, Edward Montagu, Earl of, 1602-1671. aut</author>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I) aut</author>
+               </titleStmt>
+               <extent>[2], 14 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by Robert Barker, printer to the Kings most excellent Majestie: and by the assignes of John Bill,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>MDCXLII. [1642 i.e. 1643]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "March. 8".</note>
+                  <note>Reproduction of originals in: Folger Shakespeare Library; Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Falkland, Lucius Cary, --  Viscount, 1610?-1643 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Charles I, 1625-1649 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Sources --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-10</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-10</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:132657:1" rendition="simple:additions"/>
+            <p>The VOTES agreed on by the LORDS and COMMONS concerning a TREATIE; And their Deſire of a Safe-Conduct for a Committee named by them in the Earl of <hi>Mancheſters</hi> Letter of the 28. of Febr. to the Lord of <hi>Falkland;</hi>
+            </p>
+            <p>With His <hi>MAJESTIES</hi> gracious Anſwer thereunto: And His MAJESTIES Safe-Conduct.</p>
+            <p>Alſo the ARTICLES of both Houſes of Parliament concerning a Ceſſation, With a Letter of the 28. of February from the ſaid Earl of <hi>Mancheſter</hi> to the ſaid Lord Viſcount of <hi>Falkland,</hi> wherein they were incloſed;</p>
+            <p>
+               <hi>Together with His</hi> MAJESTIES gracious ANSWER to the ſame.</p>
+            <p>LONDON: Printed by ROBERT BARKER, Printer to the Kings moſt Excellent Majeſtie: And by the Aſſignes of JOHN BILL. MDCXLII.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:132657:2"/>
+            <pb n="1" facs="tcp:132657:2"/>
+            <head>¶ Agreed on by the LORDS and COMMONS in Parliament;</head>
+            <p>
+               <seg rend="decorInit">T</seg>Hat there ſhall be a Treatie upon the Pro<g ref="char:EOLhyphen"/>poſitions before the disbanding; in which Treatie, ſo much of His Maje<g ref="char:EOLhyphen"/>ſties Propoſitions as concerns the Ma<g ref="char:EOLhyphen"/>gazines, Forts and Ships; and the Pro<g ref="char:EOLhyphen"/>poſition of both Houſes for the Diſ<g ref="char:EOLhyphen"/>banding of the Armies, ſhall be firſt Treated of, and Concluded on, before the proceeding to Treat upon any of the other Propoſitions.</p>
+            <p>And that this Treatie ſhall begin the fourth of March, or ſooner if it may be, and that from the beginning of the Treatie the time may not exceed twenty dayes.</p>
+            <closer>
+               <signed>Jo. Browne Cler. Parl.</signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="2" facs="tcp:132657:3"/>
+            <opener>
+               <salute>MY LORD,</salute>
+            </opener>
+            <p>
+               <hi>
+                  <seg rend="decorInit">I</seg>
+               </hi> Am commanded by the Lords in Parliament, to deſire your Lordſhip to acquaint His Majeſtie, that both Houſes of Parliament having ap<g ref="char:EOLhyphen"/>pointed a Committee to Treat with His Majeſtie, They deſire that a Safe-Conduct may be granted unto them by His Majeſtie; The number and the names of the Committee your Lordſhip ſhall receive here incloſed.</p>
+            <closer>
+               <salute>My Lord,</salute> I am
+<signed>Your Lordſhips humble ſervant <hi>Mancheſter</hi> Speaker of the Houſe of Peers <hi>pro tempore.</hi>
+               </signed>
+               <dateline>
+                  <date>Febr. 28.</date>
+               </dateline>
+            </closer>
+            <trailer>For the Right Honourable the Lord Viſcount <hi>Falkland,</hi> Principall Se<g ref="char:EOLhyphen"/>cretary to His Majeſtie.</trailer>
+            <closer>
+               <signed>Mancheſter.</signed>
+            </closer>
+            <postscript>
+               <list>
+                  <item>E. of Northumberland.</item>
+                  <item>M. Peirpoint.</item>
+                  <item>Sir Jo. Holland.</item>
+                  <item>L. Viſ. Say &amp; Seale.</item>
+                  <item>Sir William Ermyne.</item>
+                  <item>M. VVhitlock.</item>
+               </list>
+            </postscript>
+         </div>
+         <div type="text">
+            <pb n="3" facs="tcp:132657:3"/>
+            <head>
+               <figure>
+                  <figDesc>royal blazon or coat of arms</figDesc>
+                  <head>C R</head>
+                  <q>HONI SOIT QVI MAL Y PENSE</q>
+                  <q>DIEV ET MON DROIT</q>
+               </figure>
+            </head>
+            <p>
+               <seg rend="decorInit">H</seg>Is Majeſtie hath ſent a ſafe Con<g ref="char:EOLhyphen"/>duct for the Earl of <hi>Northumber<g ref="char:EOLhyphen"/>land,</hi> Maſter <hi>Peirpoint,</hi> Sir <hi>William Ermyne,</hi> Sir <hi>John Holland,</hi> and Ma<g ref="char:EOLhyphen"/>ſter <hi>Whitlock,</hi> but hath not ad<g ref="char:EOLhyphen"/>mitted the Lord <hi>Say</hi> to attend Him, as being excepted againſt by name in His Proclamation at <hi>Oxford,</hi> of the third of No<g ref="char:EOLhyphen"/>vember, and by Writ to the Sheriffe proclaimed then in that County, in which His Majeſties in<g ref="char:EOLhyphen"/>tention is declared to proceed againſt him as a per<g ref="char:EOLhyphen"/>ſon guilty of high Treaſon, and ſo falling to be within the caſe of Sir <hi>John Evelyn,</hi> who upon the ſame exception was not admitted to attend His Majeſtie with the reſt of the Committee at <hi>Cole<g ref="char:EOLhyphen"/>broke</hi> in November laſt: But His Majeſtie doth ſignifie, that in caſe the Houſe ſhall think fit to ſend any other perſon in the place of the Lord <hi>Say,</hi> that
+<pb n="4" facs="tcp:132657:4"/>is not included in the like exception, His Majeſtie hath commanded all His Officers, Souldiers, and other Subjects, to ſuffer him as freely to paſſe and repaſſe, as if his name had been particularly com<g ref="char:EOLhyphen"/>prized in this ſafe Conduct.</p>
+            <p>His Majeſtie is content that His Propoſition concerning the Magazines, Forts, Ships, and Re<g ref="char:EOLhyphen"/>venue, and the Propoſition of both Houſes for the disbanding of the Armies, ſhall be firſt Treated of, and agreed of, before the proceeding to Treat upon any of the other Propoſitions; And that after, the ſecond of His Majeſties, and the ſecond of theirs be Treated on, and agreed of, and ſo on in the ſame order; And that from the beginning of the Treaty the time may not exceed twenty dayes, in which He hopes a full Peace and right Vnderſtanding may be eſtabliſhed thorowout the Kingdom.</p>
+         </div>
+         <div type="text">
+            <pb n="5" facs="tcp:132657:4"/>
+            <head>
+               <figure>
+                  <figDesc>royal blazon or coat of arms</figDesc>
+                  <head>C R</head>
+                  <q>HONI SOIT QVI MAL Y PENSE</q>
+                  <q>DIEV ET MON DROIT</q>
+               </figure>
+            </head>
+            <p>
+               <seg rend="decorInit">O</seg>Vr Will and Pleaſure is, And We do hereby ſtraitly charge and command all the Officers and Souldiers of Our preſent Army, and all Our Miniſters and Subjects whatſoever, to Permit and ſuffer Our Right Truſty and Right Welbelo<g ref="char:EOLhyphen"/>ved Couſin and Councellour <hi>Algernon</hi> Earl of <hi>Nor<g ref="char:EOLhyphen"/>thumberland,</hi> and Our Truſty and Welbeloved <hi>Wil<g ref="char:EOLhyphen"/>liam Peirpoint</hi> Eſquire, Sir <hi>William Ermyne,</hi> and Sir <hi>John Holland</hi> Knights, and <hi>Bulſtrode Whitlock</hi> Eſquire, together with their ſervants to paſſe and repaſſe to and from Vs without any Let or Hinder<g ref="char:EOLhyphen"/>ance, they being now ſent to attend Vs from Our two Houſes of Parliament.</p>
+            <p>This Our ſafe Conduct under Our Signe Ma<g ref="char:EOLhyphen"/>nuall and Royall Signet, We charge and command them and every of them punctually to obſerve and obey, as they will Anſwer the contrary at their ut<g ref="char:EOLhyphen"/>moſt Perils.</p>
+            <closer>
+               <dateline>Given at Our Court at <hi>Oxford</hi> the third of <date>
+                     <hi>March.</hi> 1642.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="treaty">
+            <pb n="6" facs="tcp:132657:5"/>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas the Lords and Commons in Parliament, out of a tender ſenſe of the preſent Miſeries and Di<g ref="char:EOLhyphen"/>ſtractions of the Kingdom, and for the obtaining and ſetling of a happy Peace betwixt His Maje<g ref="char:EOLhyphen"/>ſtie and His People, have humbly preſented to His Majeſtie divers Propoſitions, to which He hath been pleaſed to make this Return, That His deſire was that a ſpeedy Time and Place might be appointed for the diſcuſſing of thoſe Propoſitions, and likewiſe ſome others propoſed by His Majeſtie: It is thereupon agreed in both Houſes, That a Committee of both Houſes ſhall be appointed to attend His Majeſtie, on, or before the fourth of <hi>March,</hi> if His Majeſtie ſhall ſo pleaſe, to endeavour to give Him all humble and fit ſatisfaction concerning the ſaid Pro<g ref="char:EOLhyphen"/>poſitions, both His Majeſties, and their own. And where<g ref="char:EOLhyphen"/>as for the more ſpeedy removall of the bloody and mi<g ref="char:EOLhyphen"/>ſerable Effects of War, His Majeſtie hath likewiſe been graciouſly pleaſed, by a late Meſſage to ſignifie His de<g ref="char:EOLhyphen"/>ſire, That for avoiding all intervening accidents of War, which might interrupt this Treaty, there might be a Ceſſation of Arms under ſuch particular Conditions and Limitations as ſhould be agreed on, their humble Deſires
+<pb n="7" facs="tcp:132657:5"/>therein concurring with His Majeſties, it is by them aſ<g ref="char:EOLhyphen"/>ſented and agreed, That a Ceſſation of Arms in order to ſuch a Treaty as is reſolved upon by both Houſes of Parliament may be enjoyned to all the Armies and For<g ref="char:EOLhyphen"/>ces now afoot in the Kingdom of <hi>England,</hi> and Domini<g ref="char:EOLhyphen"/>on of <hi>VVales,</hi> on either ſide, under the Reſtrictions and Limitations hereafter following; And that neither ſide ſhall be bound or limited by this Ceſſation in any other<g ref="char:EOLhyphen"/>wiſe, or to any other purpoſe, then is hereafter expreſſed.</p>
+            <p>
+               <label>I.</label> THat all manner of Arms, Ammunition, Victualls, Money, Bullion, and all other Commodities paſſing without ſuch a ſafe Conduct as may warrant their Paſſage, may be ſtayed, and ſeized on, as if no ſuch Ceſ<g ref="char:EOLhyphen"/>ſation were agreed on at all.</p>
+            <p>
+               <label>II.</label> That all manner of Perſons paſſing without ſuch a ſafe Conduct as is mentioned in the Article next going before, ſhall be apprehended and detained, as if no ſuch Ceſſation were agreed on at all.</p>
+            <p>
+               <label>III.</label> That His Majeſties Forces in <hi>Oxfordſhire</hi> ſhall advance no neerer to <hi>VVindſore</hi> then <hi>VVheatly;</hi> and in <hi>Buckingham<g ref="char:EOLhyphen"/>ſhire,</hi> no nearer to <hi>Aylesbury</hi> then <hi>Brill;</hi> and that in <hi>Berk<g ref="char:EOLhyphen"/>ſhire</hi> the Forces reſpectively ſhall not advance neerer the one to the other then now they are: And that the Parlia<g ref="char:EOLhyphen"/>ment Forces in <hi>Oxfordſhire</hi> ſhall Advance no neerer to <hi>Oxford</hi> then <hi>Henley;</hi> and thoſe in <hi>Buckinghamſhire</hi> no neer<g ref="char:EOLhyphen"/>er to <hi>Oxford</hi> then <hi>Aylesbury:</hi> And that His Majeſties Forces ſhall take no new Quarters above twelve miles from
+<pb n="8" facs="tcp:132657:6"/>
+               <hi>Oxford</hi> any way; and that the Parliament Forces ſhall take no new Quarters above twelve miles from <hi>VVind<g ref="char:EOLhyphen"/>ſore</hi> any way.</p>
+            <p>
+               <label>IIII.</label> That no Siege ſhall be begun, or continued againſt <hi>Glouceſter,</hi> and that His Majeſties Forces now employed in the Siege, ſhall return to <hi>Cirenceſter</hi> and <hi>Malmsbury,</hi> or to <hi>Oxford,</hi> as ſhall be moſt for their conveniencie; And the Parliament Forces which are in <hi>Glouceſterſhire,</hi> ſhall remain in the Cities of <hi>Glouceſter, Briſtoll,</hi> and the Caſtle and Town of <hi>Berkley,</hi> or retire neerer to <hi>VVindſore,</hi> as they ſhall ſee cauſe; And that thoſe of <hi>VVales</hi> which are drawn to <hi>Glouceſter</hi> ſhall return into their Quarters where they were before they drew down to <hi>Glouceſterſhire.</hi>
+            </p>
+            <p>
+               <label>V.</label> That in caſe it be pretended on either ſide, that the Ceſſation is violated, no Act of Hoſtilitie is immediately to follow; but firſt the party complaining is to acquaint the Lord Generall on the other ſide, and to allow three dayes after notice given for ſatisfaction; and in caſe ſa<g ref="char:EOLhyphen"/>tisfaction be not given or accepted, then five dayes no<g ref="char:EOLhyphen"/>tice to be given before Hoſtility begin: And the like to be obſerved in the remoter Armies, by the Commanders in chief.</p>
+            <p>
+               <label>VI.</label> Laſtly, I hat all other forces in the Kingdom of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> and Dominion of <hi>Wales,</hi> not before mentioned, ſhall remain in the ſame Quarters and Places, as they are at the time of the publiſhing of this Ceſſation, and under the ſame Conditions as are mentioned in the Articles be<g ref="char:EOLhyphen"/>fore:
+<pb n="9" facs="tcp:132657:6"/>And that this Ceſſation ſhall not extend to re<g ref="char:EOLhyphen"/>ſtrain the ſetting forth or employing of any ſhips for the defence of His Majeſties Dominions.</p>
+            <p>All which they humbly deſire His Majeſtie will be pleaſed to ratifie and confirm; And that this Ceſſation may begin upon the fourth of March next, or ſooner, if it may be, and continue untill the five and twentieth of the ſame moneth; And in the mean time to be publiſhed to the Commanders, Officers, and Souldiers, and all other His Majeſties loving Subjects on either ſide; And that the Treaty intended may commence upon the Fourth of March next, or ſooner, if it may be, and the continuance thereof not to exceed twenty dayes.</p>
+            <closer>
+               <signed>Jo. Browne Cler. Parl.</signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="10" facs="tcp:132657:7"/>
+            <opener>
+               <salute>MY LORD,</salute>
+            </opener>
+            <p>
+               <hi>
+                  <seg rend="decorInit">I</seg>
+               </hi> Am commanded by the Lords in Parliament to deſire your Lord<g ref="char:EOLhyphen"/>ſhip to preſent unto His Majeſtie theſe incloſed Articles concerning a Ceſſation of Arms, to which they deſire His Majeſties Anſwer, as ſoon as it may ſtand with His Conveniencie. I am likewiſe commanded to ſend unto your Lordſhip the Reſolutions of both Houſes, that His Majeſtie may ſee the ground of their deſires for a preſent Ceſſation of Armes. My Lord, this is that I have in com<g ref="char:EOLhyphen"/>mand, who am</p>
+            <closer>
+               <dateline>
+                  <date>Feb. 28.</date>
+               </dateline>
+               <signed>Your Lordſhips humble ſervant <hi>Mancheſter</hi> Speaker of the Houſe of Peers <hi>pro tempore.</hi>
+               </signed>
+            </closer>
+            <trailer>For the Lord Viſcount <hi>Falkland.</hi>
+            </trailer>
+         </div>
+         <div type="treaty">
+            <pb n="11" facs="tcp:132657:7"/>
+            <p>
+               <seg rend="decorInit">H</seg>Is Majeſtie hoped the Treatie would have been begun, and the Ceſſation agreed on long ſince, and that much might in this time have been concluded in order to the Peace and Happineſſe of the Kingdom. But ſince in almoſt a moneth (for His Majeſties Propoſitions were made on the third of <hi>February,</hi> and He heard not ſince from both Houſes till the firſt of <hi>March</hi>) no conſent hath been yeelded to it; He conceives the Ceſſation cannot begin ſo ſoon as the fourth of this Moneth, by which time (though His Majeſty uſes no delay in making His Anſwer) the ſame can hardly be returned to them; and many of the Articles now preſented to Him from both Houſes concerning the Ceſſation, are ſo ſtrict, that ſuch of His good Subjects, who are not of His army (and for whom generally He ſhall al<g ref="char:EOLhyphen"/>wayes have a principall, juſt, and compaſſionate re<g ref="char:EOLhyphen"/>gard) receive not any benefit, or are reſtored to any Liberty thereby, which His Majeſtie ſhall ever in<g ref="char:EOLhyphen"/>ſiſt upon (when in matters meerly concerning Him<g ref="char:EOLhyphen"/>ſelf He may deſcend to eaſier Conditions) and which He hath returned with ſuch alterations, as He doubts not both Houſes will conſent to, and do ſufficiently manifeſt how ſollicitous His Majeſty is for the good of His people, and how deſirous He is, that in this unnaturall contention no more blood
+<pb n="12" facs="tcp:132657:8"/>of His Subjects may be ſpilt (upon which He looks with much grief, compaſſion, and tenderneſſe of heart) even of thoſe who have lifted up their hands againſt Him; And His Majeſtie therefore deſires (againſt which He can imagine no objection can be made) that the Ceſſation may begin upon the twelfth of this Moneth, or ſooner, if the conditi<g ref="char:EOLhyphen"/>ons of the Ceſſation ſhall be ſooner agreed on; and is willing the ſame ſhall continue for twenty dayes, in which time He hopes by the Treaty, and a cleer underſtanding of each other, a full Peace and Happi<g ref="char:EOLhyphen"/>neſſe may be eſtabliſhed thorowout the Kingdom. And during that time His Majeſtie is willing that neither ſide ſhall be bound or limited by this Ceſſa<g ref="char:EOLhyphen"/>tion in any other wiſe, or to any other purpoſe then is hereafter expreſſed.</p>
+            <p>
+               <label>I.</label> THat all manner of Arms, Ammunition, Money, Bul<g ref="char:EOLhyphen"/>lion and Victuals paſſing for the uſe of either Army, without a Paſſe or ſafe Conduct from the Generall of each Army, may be ſtayed and ceaſed on, as if no Ceſſa<g ref="char:EOLhyphen"/>tion were agreed on at all.</p>
+            <p>
+               <label>II.</label> That all Officers and Souldiers of either Army paſ<g ref="char:EOLhyphen"/>ſing without ſuch Licence or ſafe Conduct, as aforeſaid, may be apprehended and deteined, as if no ſuch Ceſſati<g ref="char:EOLhyphen"/>on were agreed on at all; And that all manner of perſons His Majeſties Subjects, of what quality or condition ſo<g ref="char:EOLhyphen"/>ever (except Officers and Souldiers of either Army) ſhall paſſe to and from the Cities of <hi>Oxford</hi> and <hi>London,</hi> and back again at their pleaſures, during this Ceſſation, as like<g ref="char:EOLhyphen"/>wiſe to and from any other parts of His Majeſties Domi<g ref="char:EOLhyphen"/>nions, without any ſearch; ſtay or impriſonment of their perſons, or ſeizure &amp; detention of their goods or eſtates;
+<pb n="13" facs="tcp:132657:8"/>And that all manner of Trade, Traffique and Commerce, be free and open between all His Majeſties Subjects, excepting as aforeſaid between the Officers and Souldiers of either Army, or for Arms, Ammunition, Money, Bullion, or Victuals for the uſe of either Army, without a Paſſe or ſafe Conduct, as aforeſaid; Which may be a good beginning to renew the Trade and Correſpondence of the Kingdom, and whereby His good Subjects may be reſtored to that Liber<g ref="char:EOLhyphen"/>ty and Freedom they were born to, and have ſo happily en<g ref="char:EOLhyphen"/>joyed till theſe miſerable Diſtractions, and which even du<g ref="char:EOLhyphen"/>ring this War His Majeſty hath to His utmoſt laboured to preſerve, opening the Way by moſt ſtrict Proclamations to the paſſage of all Commodities, even to the City of <hi>London</hi> it ſelf.</p>
+            <p>
+               <label>III.</label> That His Majeſties Forces in <hi>Oxfordſhire</hi> ſhall advance no neerer to <hi>VVindſore</hi> then <hi>VVheatley;</hi> and in <hi>Buckinghamſhire,</hi> no neerer to <hi>Aylesbury</hi> then <hi>Brill;</hi> and that in <hi>Berkſhire</hi> the For<g ref="char:EOLhyphen"/>ces reſpectively ſhall not advance neerer the one to the other then they ſhall be at the day to be agreed upon for the Ceſſation to begin; And that the Forces of the other Army in <hi>Oxfordſhire</hi> ſhall advance no neerer to <hi>Oxford</hi> then <hi>Henly,</hi> and thoſe in <hi>Buckinghamſhire</hi> no neerer to <hi>Oxford</hi> then <hi>Ayleſ<g ref="char:EOLhyphen"/>bury;</hi> And that the Forces of neither Army ſhall advance their Quarters neerer to each other, then they ſhall be upon the day agreed on for the Ceſſation to begin, otherwiſe then in Paſſage and Communication between their ſeverall Quarters reſpectively, without any Acts of Hoſtility each to other; but may enlarge themſelves within their own Quar<g ref="char:EOLhyphen"/>ters reſpectively, as they ſhall finde convenient.</p>
+            <p>
+               <label>IIII.</label> That the Forces of either Army in <hi>Glouceſterſhire, VViltſhire,</hi> and <hi>VVales,</hi> as likewiſe in the Cities of <hi>Glouceſter, Briſtoll,</hi> and the Caſtle and Town of <hi>Berkley,</hi> ſhall be guided by the rule expreſt in the latter part of the precedent Article.</p>
+            <pb n="14" facs="tcp:132657:9"/>
+            <p>
+               <label>V.</label> That in caſe it be pretended on either ſide that the Ceſ<g ref="char:EOLhyphen"/>ſation is Violated, no Act of hoſtility is immediately to fol<g ref="char:EOLhyphen"/>low, but firſt the party complaining is to acquaint the Lord Generall on the either ſide, and to allow three dayes after notice given for ſatisfaction: and in caſe ſatisfaction be not given or accepted, then five dayes notice to be given before hoſtility begin: and the like to be obſerved in the remoter Armies by the Commanders in chief.</p>
+            <p>
+               <label>VI.</label> That all other Forces in the Kingdom of <hi>England</hi> and Do<g ref="char:EOLhyphen"/>minion of <hi>Wales,</hi> not before mentioned, ſhall remain in the ſame Quarters and Places as they are at the time of publiſh<g ref="char:EOLhyphen"/>ing this Ceſſation, otherwiſe then in paſſage &amp; communica<g ref="char:EOLhyphen"/>tion between their ſeverall Quarters, as is mentioned in the latter part of the third Article: And that this Ceſſation ſhall not extend to reſtrain the ſetting forth, or imploying any ſhips for the defence of His Majeſties Dominions: Provi<g ref="char:EOLhyphen"/>ded that His Majeſty be firſt acquainted with the particu<g ref="char:EOLhyphen"/>lars, and that ſuch ſhips as ſhall be ſet forth be commanded by ſuch Perſons as His Majeſty ſhall approve of.</p>
+            <p>
+               <label>VII.</label> Laſtly, that during the Ceſſation none of His Majeſties Subjects be impriſoned, otherwiſe then according to the known Laws of the Land, and that there ſhall be no plun<g ref="char:EOLhyphen"/>dering or violence offered to any of His Subjects.</p>
+            <p>
+               <hi>And His Majeſtie is very willing, if there be any ſcruples made concerning theſe Propoſitions and Circumſtances of the Ceſſation, that the Committee for the Treatie nevertheleſſe may immediately come hither, and ſo all matters concerning the Ceſſation may be here ſettled by them.</hi>
+            </p>
+            <pb facs="tcp:132657:9"/>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
